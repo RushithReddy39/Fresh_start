@@ -10,6 +10,7 @@ public class FreshStartApplication {
 
         SpringApplication.run(FreshStartApplication.class, args);
         System.out.println("FreshStartApplication started");
+        System.out.println("Hello world");
     }
 
 }
