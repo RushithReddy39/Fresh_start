@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FreshStartApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(FreshStartApplication.class, args);
+        System.out.println("FreshStartApplication started");
     }
 
 }
